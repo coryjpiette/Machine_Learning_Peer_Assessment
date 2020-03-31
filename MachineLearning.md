@@ -1,9 +1,8 @@
-# Practical Machine Learning Coursera Peer Assessment
-Monday, July 21, 2014  
-
+# Practical Machine Learning: Peer-Assessment
+ 
 ## Summary
 
-This report uses machine learning algorithms to predict the manner in which users of exercise devices exercise. 
+This report utilizes machine learning algorithms to predict the manner in which users of exercise devices exercise. 
 
 
 ### Background
