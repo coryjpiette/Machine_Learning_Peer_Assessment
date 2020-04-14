@@ -1,5 +1,5 @@
 # Practical Machine Learning: Peer-Assessment
-# Cory Piette  April 2020
+# Cory Piette,   April 2020
  
 ## Summary
 
